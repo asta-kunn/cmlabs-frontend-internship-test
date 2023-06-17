@@ -1,3 +1,8 @@
+Link to deploy : https://rifqi-cmlabs-frontend-internship.vercel.app/
+fitur app : go to navbar menu and select the foods menu
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
